@@ -14,13 +14,13 @@
             - 1.4 How does nation performance change over the various decades? Has the change from 2-stroke to 4-stroke engines influenced it?
             - 1.5 Conclusions on constructor data.
         
-        - 2. Riders:
-            - 2.1 Number of riders per country.
+        - 2. Drivers:
+            - 2.1 Number of drivers per country.
             - 2.2 Number of world championships per country.
             - 2.3 How the championship wins distrubute over the drivers for each country?
-            - 2.4  % of pilots that have won championships for the best nations.
+            - 2.4  % of drivers that have won championships for the best nations.
             - 2.5 Number of 1st, 2nd, 3rd places per country.
-            - 2.6 Conclusions on rider data
+            - 2.6 Conclusions on drivers data.
         
         3. Conclusion.
         
