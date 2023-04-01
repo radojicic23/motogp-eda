@@ -1,0 +1,156 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: black;
+    font-family: Nunito, sans-serif;
+}
+
+.constructor h2 {
+    display: flex;
+    justify-content: center;
+    color: #EA1C2C;
+    font-weight: 100;
+    margin-top: 100px;
+}
+
+.blurb h2 {
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 1.7rem;
+}
+
+.blurb p {
+    color: white;
+    font-weight: 100;
+    font-size: 1rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.driver h2 {
+    display: flex;
+    justify-content: center;
+    color: #EA1C2C;
+    font-weight: 100;
+    margin-top: 100px;
+}
+
+.conclusion h2 {
+    display: flex;
+    justify-content: center;
+    color: #EA1C2C;
+    font-weight: 100;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+
+.conclusion .report {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.conclusion .report p {
+    color: white;
+    font-weight: 500;
+}
+
+#home {
+    margin-top: 80px;
+}
+
+#mainNavbar {
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+#mainNavbar a {
+    transition: all ease .50s;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup {
+    margin-right: 30px;
+}
+
+#image img {
+    margin-left: 35px;
+    width: 80%;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+.navbar.scrolled {
+    background: black;
+    transition: background 1000ms;
+}
+
+
+.button-b {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    display: block;
+    width: 250px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    background: black;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 3px solid black;
+    transition: all .35s;
+}
+
+.btn:hover{
+    width: 200px;
+    border: 3px solid #EA1C2C;
+    background: transparent;
+    color: #EA1C2C;
+}
+
+.btn:hover + .icon{
+    border: 3px solid #EA1C2C;
+    right: -25%;
+}
+
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 2rem;
+    }
+}
