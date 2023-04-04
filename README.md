@@ -1,4 +1,7 @@
 # EDA - MotoGP Drivers and Constructors Statistics📊
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 - Are the Italians the Best in MotoGP Championship? 
 
     In this notebook we are going to try to answer this question and see whether Italy is the best nation when it comes to performance in MotoGP.
