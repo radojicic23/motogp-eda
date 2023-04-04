@@ -33,3 +33,18 @@
 
 ## Data Source
 - [Kaggle](https://www.kaggle.com/)
+
+## Run
+```bash
+git clone <repo-url>
+```
+```bash
+cd motogp-eda
+```
+```bash
+cd EDA-MotoGP-Web
+```
+- Copy path of [index.html](https://github.com/radojicic23/motogp-eda/blob/master/EDA-MotoGP-Web/index.html) and paste it on your favorite browser.
+
+## Source code
+- [main.ipynb](https://github.com/radojicic23/motogp-eda/blob/master/main.ipynb)
