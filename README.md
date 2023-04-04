@@ -45,6 +45,9 @@ git clone <repo-url>
 cd motogp-eda
 ```
 ```bash
+pip install -r requirements.txt
+```
+```bash
 cd EDA-MotoGP-Web
 ```
 - Copy path of [index.html](https://github.com/radojicic23/motogp-eda/blob/master/EDA-MotoGP-Web/index.html) and paste it on your favorite browser.
